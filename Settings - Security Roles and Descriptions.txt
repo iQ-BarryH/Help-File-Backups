@@ -15957,4 +15957,4 @@ For details on <strong>Full Access</strong> see <a href="https://support.iqmetri
 <li><strong>Settings Console</strong> is still accessible if access is granted to other workstation settings, company settings and/or integration settings</li>
 <li><strong>Settings Console</strong> is no longer accessible if access is taken away for workstation, company and integration settings</li>
 </ul>
-<p>For details on <strong>Full Access</strong> see <a href="https://support.iqmetrix.com/hc/en-us/articles/228837827#Payment_Devices">Workstation Settings</a></p>
+<p>For details on <strong>Full Access</strong> see <a href="https://support.iqmetrix.com/hc/en-us/articles/228837827#Payment_Devices">Workstation Settings - the last option</a></p>
